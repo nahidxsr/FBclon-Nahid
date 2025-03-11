@@ -10,8 +10,8 @@ class OLD_CLONER:
     
     def banner(self):
         os.system("clear")
-        print("DEVELOPER  : HADI ANHAF AIMAN")
-        print("GITHUB     : MR-CODE-143")
+        print("DEVELOPER  : NAHID BRO")
+        print("GITHUB     : nahidxsr")
         print("FEATURE    : OLD ID CLONER")
         print("VERSION    : 1.6 FREEEEE")
         print("-------------------------------")
