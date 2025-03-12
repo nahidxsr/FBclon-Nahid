@@ -1,4 +1,4 @@
-#Davloper :- https://t.me/+PCHk9_nDCMM3NDI1
+#Davloper :- https://t.me/+mdnahid44
 
 I = '\x1b[1;32m'
 Q = '\x1b[00m'
@@ -26,8 +26,8 @@ print(bired + '\n\x1b[1;\033[41m\x1b[1;97m##    ##  ######   ########   \33[m \n
 def DH():
     import sys
 while True:
-    usern = 'ADNAN-R15'
-    passwd = 'ADNAN-V4'
+    usern = 'MDNAHID44'
+    passwd = 'MDNAHID44'
     inpuser = str(input(bigreen + ' \x1b[1;97m[•] Enter Your Username: '))
     inppass = str(input(' \x1b[1;97m[•] Enter Your Password: '))
     if usern == inpuser and passwd == inppass:
@@ -35,7 +35,7 @@ while True:
         break
     print(bired + ' [×] Wrong User or Password !')
     Please_Try_Again()
-    os.system('xdg-open https://t.me/+PCHk9_nDCMM3NDI1')
+    os.system('xdg-open https://t.me/+mdnahid44')
 os.system('clear')
 logo = '\033[41m\x1b[1;97m##    ##  ######   ########   \33[m \n ##   ##  ##    ##  ## \033[32m          \n ##  ##   ##        ##  \033[33m         \n #####    ##   #### ######     \33[1;96m \n ##  ##   ##    ##  ##    \x1b[0;34m      \n ##   ##  ##    ##  ##    \033[95m      \n  ##    ##  ######   ##\n97m__________________________________________________\n\x1b[1;97m__________________________________________________\n'
 
@@ -55,7 +55,7 @@ def menu():
     elif user in ['02', '2']:
         customb()
     elif user in ['03', '3']:
-        os.system('xdg-open https://t.me/+PCHk9_nDCMM3NDI1')
+        os.system('xdg-open https://t.me/+mdnahid44')
     else:
         exit(f' {dt} THANKS FOR USEING MY TOOLS ')
 
@@ -68,7 +68,7 @@ def custom():
     requests.get(api)
     print('SMS Send Successful')
     time.sleep(5.09)
-    os.system('xdg-open https://t.me/+PCHk9_nDCMM3NDI1')
+    os.system('xdg-open https://t.me/+mdnahid44')
     menu()
 
 def customb():
@@ -83,6 +83,6 @@ def customb():
         print(str(i + 1) + f' {dt} SMS Send Successful  \n')
     print('Custom SmS Bombing Successful')
     time.sleep(5.09)
-    os.system('xdg-open https://t.me/+PCHk9_nDCMM3NDI1')
+    os.system('xdg-open https://t.me/+mdnahid44')
     menu()
 menu()
