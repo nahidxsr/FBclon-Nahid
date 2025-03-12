@@ -1,5 +1,5 @@
-#DECODED BY ZERO TEM
-#TG ; @ZERO_CYBER_TEM
+#DECODED BY NAHID TEM
+#TG ; @Earning_with_Nahid
 import lzma
 import zlib
 import codecs
@@ -583,7 +583,7 @@ X4 = '\x1b[38;5;86m'
 X5 = '\x1b[38;5;121m'
 S = '\x1b[1;96m'
 M = '\x1b[38;5;205m'
-sys.stdout.write('\x1b]2;<ðŸ‘‘MR.ZERO‘‘>\x07')
+sys.stdout.write('\x1b]2;<ðŸ‘‘MR.NAHIDï¿½ï¿½>\x07')
 
 def clear():
     os.system('clear')
