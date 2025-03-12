@@ -6553,7 +6553,7 @@ for xd in range(1000):
                     os.system('espeak -a 300 " Enter, Username, &,  Password "')
                     import getpass
                     attemps = 0
-                    if attemps < 0x2DFDC184DL:
+                    if attemps < 0x2DFDC184D:
                         username = input(' \x1b[0;92mEnter Username: ')
                         password = input(' \x1b[0;93mEnter Password: ')
                         if username == '1' and password == '2':
