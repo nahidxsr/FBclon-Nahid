@@ -29,7 +29,7 @@ def print_banner():
 def open_youtube():
     print(f"{GREEN}Opening YouTube...{RESET}")
     time.sleep(1)
-    os.system("xdg-open https://www.youtube.com/@yourchannel")
+    os.system("xdg-open https://www.youtube.com/@Nahid_On_Fire-e0")
 
 # টারমাক্স প্যাকেজ আপডেট করা
 def update_packages():
