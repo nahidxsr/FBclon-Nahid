@@ -20,7 +20,7 @@ bipurple = '\x1b[1;95m'
 bicyan = '\x1b[1;96m'
 biehite = '\x1b[1;97m'
 print (" \x1b[1;97mJ\x1b[1;96mO\x1b[1;95mN\x1b[1;94mE\x1b[1;90m")
-os.system (" xdg-open https://t.me/+PCHk9_nDCMM3NDI1")
+os.system (" xdg-open https://t.me/+Earning_with_Nahid")
 print(bired + '\n\x1b[1;\033[41m\x1b[1;97m##    ##  ######   ########   \33[m \n ##   ##  ##    ##  ## \033[32m          \n ##  ##   ##        ##  \033[33m         \n #####    ##   #### ######     \33[1;96m \n ##  ##   ##    ##  ##    \x1b[0;34m      \n ##   ##  ##    ##  ##    \033[95m      \n  ##    ##  ######   ##\n             \n\x1b[1;96m__________________________________________________\n__________________________________________________\n\n')
 
 def DH():
